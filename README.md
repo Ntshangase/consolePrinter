@@ -18,6 +18,8 @@ c) the Print total number of apps from the array.
 
 
 ## Visuals
+![consolePrinter](https://user-images.githubusercontent.com/62051440/206509570-412a087d-bbbe-42ba-bf61-939c5411a0bc.png)
+
 
 ## Project status
 Active and Running.
