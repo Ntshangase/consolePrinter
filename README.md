@@ -7,6 +7,7 @@ This is my MTN App Academy project.
 run 'flutter doctor' if it's giving problems to see if your workspace is compatable with flutter.
 To run this using Visual Studio Code, Open the file and the run/debug button pops-up then click run, and the result will show in debug console.
 All these files are run differently/ function independently.
+Having dart installed is also important but this app is the simplest to run, it definelty shouldn't be hard running this one.
 
 ## Description
 1.(myself.dart) a basic program that stores and then prints the following data: Your name, favorite app, and city.
